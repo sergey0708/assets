@@ -1,6 +1,7 @@
 import {
-    assetID
+    assetID AbunLGErT5ctzVN8MVjb4Ad9YgjpubB8Hqb17VxzfAck
 } from "../script/generic/asset";
+
 
 describe("Test eth-address helpers", () => {
     test(`Test coin`, () => {
